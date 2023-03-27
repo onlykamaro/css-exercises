@@ -1,0 +1,18 @@
+.class1,
+.class2 {
+    background-color: pink;
+}
+
+.class2 {
+    font-size: large;
+}
+
+#one {
+    font-size: 25px;
+    color: blue;
+}
+
+#two {
+    font-weight: bold;
+    background-color: greenyellow;
+}
